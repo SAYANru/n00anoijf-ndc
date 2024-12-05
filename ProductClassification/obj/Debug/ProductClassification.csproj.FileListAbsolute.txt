@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification_MarkupCompile.cache
+C:\Users\Student\source\repos\ProductClassification\bin\Debug\ProductClassification.exe.config
+C:\Users\Student\source\repos\ProductClassification\bin\Debug\ProductClassification.exe
+C:\Users\Student\source\repos\ProductClassification\bin\Debug\ProductClassification.pdb
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification.g.resources
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification.Properties.Resources.resources
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification.exe
+C:\Users\Student\source\repos\ProductClassification\obj\Debug\ProductClassification.pdb
